@@ -1,5 +1,5 @@
 # gptee
 
-T-shirt desgined based on chatgpt/user prompts.
+T-shirt desgins based on chatgpt/user prompts.
 
 
